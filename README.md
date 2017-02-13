@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1354,3 +1355,7 @@ Please refer to [this section](#resolving-module-not-found-error-cannot-resolve-
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# YouTubeApp
+Coding Exercise
+>>>>>>> c86d7c51ee86e8d847e809416ae050ed02be74e7
